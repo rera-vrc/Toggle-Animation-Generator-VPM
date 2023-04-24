@@ -1,4 +1,4 @@
-{
+f{
   "name": "dev.rerac.toggleanimgen",
   "displayName": "Rera*C Toggle Animation Generator Package",
   "version": "1.0.0",
@@ -6,8 +6,8 @@
   "description": "Simple Package for testing Automation",
   "vrchatVersion": "2022.1.1",
   "author": {
-    "name": "Momo the Monster",
-    "email": "momodmonster@gmail.com",
-    "url": "https://mmmlabs.com"
+    "name": "Rera*C",
+    "email": "rera_ssi@kakao.com",
+    "url": "https://rerac.dev"
   }
 }
