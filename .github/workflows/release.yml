@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: Packages/com.vrchat.demo-template/**
+    paths: Packages/dev.rerac.toggleanimgen/**
 
 env:
-  packageName: "com.vrchat.demo-template"
+  packageName: "dev.rerac.toggleanimgen"
 
 permissions:
   contents: write

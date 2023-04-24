@@ -96,8 +96,8 @@
         "com.unity.nuget.newtonsoft-json": "2.0.2"
       }
     },
-    "com.vrchat.demo-template": {
-      "version": "file:com.vrchat.demo-template",
+    "dev.rerac.toggleanimgen": {
+      "version": "file:dev.rerac.toggleanimgen",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
